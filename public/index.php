@@ -13,7 +13,9 @@ defined('CONFIG_PATH') ||
 	define('CONFIG_PATH' , APPLICATION_PATH . DIRECTORY_SEPARATOR . 'configs');
 
 
-
+	
+	
+	
 // gestion des exceptions // attends une fonction // que l'on évolue en classe et que l'on transforme
 // en une méthode anonyme
 /*set_error_handler(array('StartupTools', 'handlerErrors'));
